@@ -118,6 +118,7 @@ func main() {
 	fmt.Println("numberB (value) : ", *numberB)
 	fmt.Println("numberB (address) : ", &numberB)
 	
+	// array sizenya tetap, slice elemenyya dynamic
 
 
 }
